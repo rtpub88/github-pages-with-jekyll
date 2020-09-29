@@ -1,0 +1,3 @@
+# This is my first blog post!
+
+My 3rd attempt to create a simple file... so much to learn...
