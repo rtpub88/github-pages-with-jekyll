@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
   
   Testing out the blog feature of Github
+  Add a few more words
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
