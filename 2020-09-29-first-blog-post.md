@@ -1,3 +1,0 @@
-# This is my first blog post!
-
-Still so much to learn about using Github...
